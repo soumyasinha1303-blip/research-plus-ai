@@ -1,0 +1,8 @@
+{
+  "name": "OmniResearch AI",
+  "description": "An Intelligent Academic & Corporate Research Synthesis Engine for ingesting documents, extracting semantic entities, generating literature reviews, and multi-document synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
